@@ -1,4 +1,4 @@
-.cabecalho{
+.cabecalho {
    background-color: #424E61;
    color: white;
    display: flex;
@@ -8,10 +8,28 @@
 }
 
 
-.cabecalho-imagem{
-  width: 20%;
+.cabecalho-imagem {
+   width: 20%;
 }
-.cabecalho-lista-item{
+
+.cabecalho-lista-item {
    display: inline-block;
    margin: 0 16px;
+}
+
+.escola-image {
+   width: 25%;
+}
+
+.escola{
+  background-image: linear-gradient(#424E61,#4EBFE9);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.escola-div-conteudo {
+   width: 35%;
+
 }
